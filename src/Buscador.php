@@ -1,5 +1,6 @@
 <?php
 // teste
+//test2
 namespace Alura\BuscadorDeCursos;
 
 use GuzzleHttp\ClientInterface;
